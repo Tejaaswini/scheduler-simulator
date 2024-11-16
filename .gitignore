@@ -1,0 +1,19 @@
+
+# Compiled source code
+scheduler_simulator
+
+# Generated files
+*.o
+*.exe
+gantt_chart.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.bak
+*.dmp
